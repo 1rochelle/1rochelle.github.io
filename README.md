@@ -1,6 +1,6 @@
 My Portfolio
 
-DESCRIPTION A website showcasing some of my work. Click on the + button to learn more!
+DESCRIPTION A website showcasing some of my work. Scroll to the Portfolio section, then click on the + button to view these projects and learn more about them.
 
 TABLE OF CONTENTS Index.html, creative.css, and style.css files to control the functionality of this website, plus an assets folder that contains the websites' images.
 
@@ -20,6 +20,6 @@ All rights reserved, including without limitation the rights to use, copy, modif
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-Please refer to the most up-to-date copyright information for the template and its related mages by visiting https://bootstrapmade.com/license/.
+Please refer to the most up-to-date copyright information for the bootstrap template and its related mages by visiting https://bootstrapmade.com/license/. The hero image is in the public domain and was found on pexels.com.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
